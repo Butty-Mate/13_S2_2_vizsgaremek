@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
-import Kereses from '../views/Kereses.vue'
+import Kereses from '../views/kereses.vue'
 import Tulajdonos from '../views/Tulajdonos.vue'
 import Foglalas from '../views/foglalas.vue'
 import Adatvedelem from '../views/adatvedel.vue'
